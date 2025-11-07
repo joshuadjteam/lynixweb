@@ -1,0 +1,7 @@
+{
+  "name": "Lynix Technology and Coding",
+  "description": "A web application for Lynix Technology and Coding, featuring company information, contact details, a sign-on portal, and an integrated Gemini AI chat assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
